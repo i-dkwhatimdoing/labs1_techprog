@@ -1,1 +1,1 @@
-# labs_techprog
+# labs_techprog nikita vasilev bib2101
